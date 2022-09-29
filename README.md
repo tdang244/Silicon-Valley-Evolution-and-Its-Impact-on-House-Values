@@ -6,6 +6,7 @@ We believe that the wealth in tech has spilled over to the real estate industry 
 ## Models used
 
 Longitudinal Analysis: Generalized Estimating Equation (GEE) Model
+
 Spatial Analysis: Spatial Autoregressive (SAR) Model
 
 ## Context: An Introduction to the Evolution of Silicon Valley and Its House Values
